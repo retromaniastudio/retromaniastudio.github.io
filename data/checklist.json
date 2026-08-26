@@ -1,0 +1,3248 @@
+{
+    "RETROMANIA STUDIO": [
+        {
+            "coleccion": "Equipo monstruoso 1",
+            "color": "Negro",
+            "piezas": [
+                {
+                    "personaje": "Frankenstein CR7",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Lobo Messi",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Duende Neymar",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ciclope Mbappe",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiro Ronaldinho",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Zombie Campos",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Haaland Boo",
+                    "rareza": "Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Equipo monstruoso 1",
+            "color": "Rojo Traslúcido",
+            "piezas": [
+                {
+                    "personaje": "Frankenstein CR7",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo Messi",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Duende Neymar",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope Mbappe",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro Ronaldinho",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie Campos",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haaland Boo",
+                    "rareza": "Ultra Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Equipo monstruoso 1",
+            "color": "Limón Neón",
+            "piezas": [
+                {
+                    "personaje": "Frankenstein CR7",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo Messi",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Duende Neymar",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope Mbappe",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro Ronaldinho",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie Campos",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haaland Boo",
+                    "rareza": "Ultra Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Retro Wave 1",
+            "color": "Negro",
+            "piezas": [
+                {
+                    "personaje": "Destructor",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Mumm-ra",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Vegeta",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Pegajoso",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Zangief",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Prisionero (El Tenkyu)",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Sorpresa",
+                    "rareza": "N/A"
+                }
+            ]
+        },
+        {
+            "coleccion": "Retro Wave 1",
+            "color": "Blanco",
+            "piezas": [
+                {
+                    "personaje": "Destructor",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Mumm-ra",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Vegeta",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Pegajoso",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Zangief",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Prisionero (El Tenkyu)",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Sorpresa",
+                    "rareza": "N/A"
+                }
+            ]
+        },
+        {
+            "coleccion": "Retro Wave 1",
+            "color": "Verde Traslúcido",
+            "piezas": [
+                {
+                    "personaje": "Destructor",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Mumm-ra",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Vegeta",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Pegajoso",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Zangief",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Prisionero (El Tenkyu)",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Sorpresa",
+                    "rareza": "N/A"
+                }
+            ]
+        },
+        {
+            "coleccion": "Retro Wave 1",
+            "color": "Transparente",
+            "piezas": [
+                {
+                    "personaje": "Destructor",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Mumm-ra",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Vegeta",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Pegajoso",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Zangief",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Prisionero (El Tenkyu)",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Sorpresa",
+                    "rareza": "N/A"
+                }
+            ]
+        },
+        {
+            "coleccion": "Retro Wave 1",
+            "color": "Limón Neón",
+            "piezas": [
+                {
+                    "personaje": "Destructor",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Mumm-ra",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Vegeta",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Pegajoso",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Zangief",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Prisionero (El Tenkyu)",
+                    "rareza": "N/A"
+                },
+                {
+                    "personaje": "Sorpresa",
+                    "rareza": "N/A"
+                }
+            ]
+        }
+    ],
+    "SONRICS": [
+        {
+            "coleccion": "Serie 1",
+            "color": "Morado fuerte",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Común"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Transparente",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Ultra Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Negro",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Morado claro",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Común"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Lila",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Fucsia",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "No existe"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Rosa",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Común"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Rojo",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Común"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Naranja",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Común"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Amarillo",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Ultra Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Común"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Verde neón",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "No existe"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Verde olivo",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "No existe"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "No existe"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Turquesa",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Azul claro",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Raro"
+                }
+            ]
+        },
+        {
+            "coleccion": "Serie 1",
+            "color": "Azul fuerte",
+            "piezas": [
+                {
+                    "personaje": "Gran Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hidra",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Hombre Lobo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Behemot",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Grifo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "T-Rex",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Mujer Gallina",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Ciclope",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Tengu",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Triton",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Kraken",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jotun Troll",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Frankenstein",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Manticora",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Karnak",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Coatlicue",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pie Grande",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Baba Yaga",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Kali",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Catoblepas",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Arpia",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Haniver",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hobgoblin",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Windigo",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Gorro Rojo",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Medusa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Goblin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Cerbero",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Zombie",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Quimera",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Espectro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ogro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiro",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Ruc",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Gremlin",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Vampiresa",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Muerto Viviente",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Fantasma de la Opera",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Cientifico Loco",
+                    "rareza": "Común"
+                },
+                {
+                    "personaje": "Pantera Alada",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Momia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Charón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bestia",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Bruja",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jack el Destripador",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Hombre Invisible",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Esqueletón",
+                    "rareza": "Raro"
+                },
+                {
+                    "personaje": "Jorobado",
+                    "rareza": "Raro"
+                }
+            ]
+        }
+    ]
+}
