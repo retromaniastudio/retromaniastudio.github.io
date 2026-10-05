@@ -1,0 +1,35 @@
+{
+    "youtube_playlist": "https://www.youtube.com/embed/videoseries?list=PLTeCR7qVfDuA",
+    "redes": [
+        {
+            "nombre": "Instagram",
+            "icono": "./img/general/redes/instagram.png",
+            "url": "https://www.instagram.com/retromaniastudio"
+        },
+        {
+            "nombre": "TikTok",
+            "icono": "./img/general/redes/tiktok.png",
+            "url": "https://www.tiktok.com/@retromaniastudio"
+        },
+        {
+            "nombre": "X",
+            "icono": "./img/general/redes/x.png",
+            "url": "https://x.com/retromaniastudi"
+        },
+        {
+            "nombre": "YouTube",
+            "icono": "./img/general/redes/youtube.png",
+            "url": "https://www.youtube.com/@RetromaniaStudio"
+        },
+        {
+            "nombre": "Facebook - Página",
+            "icono": "./img/general/redes/facebook-pagina.png",
+            "url": "https://www.facebook.com/profile.php?id=61593752192471"
+        },
+        {
+            "nombre": "Facebook - Grupo",
+            "icono": "./img/general/redes/facebook-grupo.png",
+            "url": "https://www.facebook.com/groups/27637504485884882"
+        }
+    ]
+}
