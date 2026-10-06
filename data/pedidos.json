@@ -1,34 +1,104 @@
 {
     "RETROMANIA STUDIO": [
         {
-            "pedido": "RW1-001",
+            "pedido": "HW1-019",
             "estatus": "PEDIDO CONFIRMADO",
             "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
         },
         {
-            "pedido": "RW1-002",
+            "pedido": "HW1-018",
             "estatus": "PEDIDO CONFIRMADO",
             "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
         },
         {
-            "pedido": "RW1-003",
-            "estatus": "PEDIDO CANCELADO",
-            "comentario": "No se completó el pago de tu pedido. Por favor, verifica tu método de pago y vuelve a intentarlo. Si necesitas ayuda, contáctanos."
+            "pedido": "HW1-017",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
         },
         {
-            "pedido": "RW1-004",
-            "estatus": "FABRICANDO PEDIDO",
-            "comentario": "Estamos trabajando en la fabricación de tu pedido. Te notificaremos cuando esté listo para el envío. Gracias por tu paciencia."
+            "pedido": "HW1-016",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
         },
         {
-            "pedido": "RW1-005",
-            "estatus": "FABRICANDO PEDIDO",
-            "comentario": "Estamos trabajando en la fabricación de tu pedido. Te notificaremos cuando esté listo para el envío. Gracias por tu paciencia."
+            "pedido": "HW1-015",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
         },
         {
-            "pedido": "RW1-006",
-            "estatus": "EN PREPARACIÓN PARA ENVÍO",
-            "comentario": "Estamos preparando tu pedido para el envío. Pronto recibirás un correo con los detalles de seguimiento. Gracias por tu paciencia."
+            "pedido": "HW1-014",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-013",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-012",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-011",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-010",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-009",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-008",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "VRM-001",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-007",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-006",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-005",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-004",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-003",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-002",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
+            "pedido": "HW1-001",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
         }
     ]
 }

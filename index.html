@@ -1,66 +1,45 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta name="description" content="Sitio oficial de Retromania Studio.">
-
-    <title>Retromania Studio</title>
-
+    <meta name="description" content="Sitio oficial de Retromanía Studio: coleccionables, próximos lanzamientos, contenido y seguimiento de pedidos.">
+    <title>Retromanía Studio</title>
     <link rel="stylesheet" href="./css/styles.css">
 </head>
-
 <body>
-
-    <!-- =====================================================
-         BANNER PRINCIPAL
-         ===================================================== -->
-
-    <header class="site-banner" aria-label="Retromania Studio">
-    </header>
-
-
-    <!-- =====================================================
-         NAVEGACIÓN PRINCIPAL
-         ===================================================== -->
-
     <nav class="main-navigation" aria-label="Navegación principal">
         <div class="main-navigation__inner">
-
-            <a href="#inicio" class="main-navigation__link" data-route="inicio">
-                INICIO
+            <a href="#inicio" class="brand-link" aria-label="Retromanía Studio - Inicio">
+                <img src="./img/general/logo.png" alt="Retromanía Studio" class="brand-link__logo">
             </a>
 
-            <a href="#checklist" class="main-navigation__link" data-route="checklist">
-                CHECKLIST
-            </a>
-
-            <a href="#pedidos" class="main-navigation__link" data-route="pedidos">
-                PEDIDOS
-            </a>
-
+            <div class="main-navigation__links">
+                <a href="#inicio" class="main-navigation__link" data-route="inicio">INICIO</a>
+                <a href="#coleccionables" class="main-navigation__link" data-route="coleccionables">COLECCIONABLES</a>
+                <a href="#pedidos" class="main-navigation__link" data-route="pedidos">PEDIDOS</a>
+            </div>
         </div>
     </nav>
 
+    <main id="app-content" class="site-content"></main>
 
-    <!-- =====================================================
-         ÁREA DINÁMICA
-         Únicamente esta sección cambia durante la navegación.
-         ===================================================== -->
+    <footer class="site-footer">
+        <div class="site-footer__inner">
+            <div class="site-footer__brand">
+                <img src="./img/general/logo.png" alt="Retromanía Studio" class="site-footer__logo">
+                <div>
+                    <strong>RETROMANÍA STUDIO</strong>
+                    <p>Coleccionables, cultura pop y nostalgia.</p>
+                </div>
+            </div>
 
-    <main id="app-content" class="site-content">
-    </main>
+            <div class="site-footer__socials" data-footer-socials aria-label="Redes sociales"></div>
 
-
-    <!-- =====================================================
-         JAVASCRIPT
-         ===================================================== -->
+            <p class="site-footer__copyright">© 2026 Retromanía Studio</p>
+        </div>
+    </footer>
 
     <script type="module" src="./js/app.js"></script>
-
 </body>
-
 </html>

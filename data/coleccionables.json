@@ -1,0 +1,213 @@
+[
+  {
+    "id": "sports-wave-1",
+    "codigo": "SW1",
+    "nombre": "Sports Wave 1",
+    "tipo": "WAVE",
+    "categoria": "",
+    "subtitulo": "Monstruos, rivalidad y pasión por el deporte.",
+    "descripcion": "Nuestra primera colección futbolera reúne seis personajes monstruosos con uniformes, actitudes y personalidades inspiradas en la emoción de la cancha. Una mezcla de cultura retro, humor y pasión por el fútbol al estilo Retromanía Studio.",
+    "imagen": "./img/coleccionables/sports-wave-1/todos-2.webp",
+    "banner": "",
+    "estado": "Disponible sujeto a existencia",
+    "destacado": false,
+    "publicado": true,
+    "venta_set": true,
+    "venta_individual": false,
+    "variantes_set": [
+      {
+        "id": 1,
+        "nombre": "Negra",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 400.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 2,
+        "nombre": "Rojo traslúcido",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 600.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      }
+    ],
+    "piezas": []
+  },
+  {
+    "id": "retrowave-1",
+    "codigo": "RW1",
+    "nombre": "Retrowave 1",
+    "tipo": "WAVE",
+    "categoria": "Monstruos",
+    "subtitulo": "Recuerdos que regresan en forma de colección.",
+    "descripcion": "RETROWAVE 1 marcó una nueva etapa para Retromanía Studio, consolidando una línea enfocada en recuperar personajes, estilos y recuerdos de distintas épocas de la cultura pop. Seis homenajes reinterpretados como piezas de colección para quienes disfrutan volver a conectar con aquello que formó parte de su historia.",
+    "imagen": "./img/coleccionables/retrowave-1/wave_1_con_fondo_v0.webp",
+    "banner": "",
+    "estado": "Disponible sujeto a existencia",
+    "destacado": false,
+    "publicado": true,
+    "venta_set": true,
+    "venta_individual": false,
+    "variantes_set": [
+      {
+        "id": 5,
+        "nombre": "Blanca",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 400.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 6,
+        "nombre": "Negra",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 400.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 7,
+        "nombre": "Verde traslúcido",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 600.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 8,
+        "nombre": "Transparente",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 600.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      }
+    ],
+    "piezas": []
+  },
+  {
+    "id": "horrorwave-1",
+    "codigo": "HW1",
+    "nombre": "Horrorwave 1",
+    "tipo": "WAVE",
+    "categoria": "Monstruos",
+    "subtitulo": "Nostalgia retro con un toque de horror.",
+    "descripcion": "HORRORWAVE 1 lleva el espíritu de Halloween al universo de Retromanía Studio. Seis homenajes al cine de terror transformados en figuras con estética retro, volúmenes exagerados y un lenguaje visual inspirado en los juguetes y caricaturas de los años 90. Una colección especial para quienes disfrutan la nostalgia con un toque oscuro.",
+    "imagen": "./img/coleccionables/horrorwave-1/poster_horrorwave1.webp",
+    "banner": "",
+    "estado": "Preventa del 3 al 10 de octubre de 2026",
+    "destacado": true,
+    "publicado": true,
+    "venta_set": true,
+    "venta_individual": false,
+    "variantes_set": [
+      {
+        "id": 9,
+        "nombre": "Blanca",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 400.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 10,
+        "nombre": "Gris",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 400.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 11,
+        "nombre": "Negra",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 400.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 12,
+        "nombre": "Transparente",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 600.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      },
+      {
+        "id": 13,
+        "nombre": "Rosa neón",
+        "descripcion": "",
+        "imagen": "",
+        "precio": 600.0,
+        "moneda": "MXN",
+        "estatus": "Disponible"
+      }
+    ],
+    "piezas": [
+      {
+        "id": "homenaje-beetlejuice",
+        "nombre": "Homenaje Beetlejuice",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/hw1/beetlejuice/beetlejuice.webp",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-chucky",
+        "nombre": "Homenaje Chucky",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/hw1/homenaje-chucky/homenaje-chucky.webp",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-freddy-krueger",
+        "nombre": "Homenaje Freddy Krueger",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/hw1/homenaje-freddy-krueger/homenaje-freddy-krueger.webp",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "jinete-sin-cabeza",
+        "nombre": "Jinete sin Cabeza",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/hw1/jinete-sin-cabeza/jinete-sin-cabeza.webp",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-ghostface",
+        "nombre": "Homenaje Ghostface",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/hw1/homenaje-ghostface/homenaje-ghostface.webp",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-jason",
+        "nombre": "Homenaje Jason",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/hw1/homenaje-jason/homenaje-jason.webp",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      }
+    ]
+  }
+]

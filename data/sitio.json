@@ -1,35 +1,46 @@
 {
-    "youtube_playlist": "https://www.youtube.com/embed/videoseries?list=PLTeCR7qVfDuA",
-    "redes": [
-        {
-            "nombre": "Instagram",
-            "icono": "./img/general/redes/instagram.png",
-            "url": "https://www.instagram.com/retromaniastudio"
-        },
-        {
-            "nombre": "TikTok",
-            "icono": "./img/general/redes/tiktok.png",
-            "url": "https://www.tiktok.com/@retromaniastudio"
-        },
-        {
-            "nombre": "X",
-            "icono": "./img/general/redes/x.png",
-            "url": "https://x.com/retromaniastudi"
-        },
-        {
-            "nombre": "YouTube",
-            "icono": "./img/general/redes/youtube.png",
-            "url": "https://www.youtube.com/@RetromaniaStudio"
-        },
-        {
-            "nombre": "Facebook - Página",
-            "icono": "./img/general/redes/facebook-pagina.png",
-            "url": "https://www.facebook.com/profile.php?id=61593752192471"
-        },
-        {
-            "nombre": "Facebook - Grupo",
-            "icono": "./img/general/redes/facebook-grupo.png",
-            "url": "https://www.facebook.com/groups/27637504485884882"
-        }
-    ]
+  "hero": {
+    "activo": true,
+    "eyebrow": "RETROMANÍA STUDIO PRESENTA",
+    "titulo": "INICIA LA PREVENTA DE LA HORRORWAVE 1",
+    "descripcion": "¡COMIENZA LA PREVENTA DE HORRORWAVE 1! 🎃 Del 03 al 10 de octubre de 2026 podrás realizar tu pedido de HORRORWAVE 1. 💬 ¿Quieres pedir tu wave? Comenta ve a nuestra página o al grupo en Facebook y comenta en la publicación de la pre...",
+    "imagen": "./img/noticias/banner_1.webp",
+    "boton_texto": "LEER NOTICIA",
+    "boton_destino": "#noticia/recientes/0",
+    "secundario_texto": "CONSULTAR PEDIDO",
+    "secundario_destino": "#pedidos"
+  },
+  "youtube_playlist": "https://www.youtube.com/embed/videoseries?list=PLTeCR7qVfDuA",
+  "redes": [
+    {
+      "nombre": "Instagram",
+      "icono": "./img/general/redes/instagram.png",
+      "url": "https://www.instagram.com/retromaniastudio"
+    },
+    {
+      "nombre": "TikTok",
+      "icono": "./img/general/redes/tiktok.png",
+      "url": "https://www.tiktok.com/@retromaniastudio"
+    },
+    {
+      "nombre": "X",
+      "icono": "./img/general/redes/x.png",
+      "url": "https://x.com/retromaniastudi"
+    },
+    {
+      "nombre": "YouTube",
+      "icono": "./img/general/redes/youtube.png",
+      "url": "https://www.youtube.com/@RetromaniaStudio"
+    },
+    {
+      "nombre": "Facebook - Página",
+      "icono": "./img/general/redes/facebook-pagina.png",
+      "url": "https://www.facebook.com/profile.php?id=61593752192471"
+    },
+    {
+      "nombre": "Facebook - Grupo",
+      "icono": "./img/general/redes/facebook-grupo.png",
+      "url": "https://www.facebook.com/groups/27637504485884882"
+    }
+  ]
 }
