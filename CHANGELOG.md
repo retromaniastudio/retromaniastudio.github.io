@@ -48,3 +48,8 @@
 - Se aplica difuminado suave, reducción de brillo y saturación moderada únicamente dentro del Hero.
 - Se refuerza el degradado oscuro de izquierda a derecha para priorizar título, extracto y botón sin ocultar por completo la imagen.
 - Las imágenes de las noticias fuera del Hero no cambian.
+
+## Puka-ready v6.3 — tarjetas de personajes sin recorte
+- Las imágenes de integrantes/personajes usan `object-fit: contain` dentro de su tarjeta.
+- Se conserva el espacio cuadrado y el tamaño uniforme de las tarjetas, pero la imagen completa queda visible.
+- No se modifican los JSON, imágenes ni datos publicados por Puka.

@@ -2939,7 +2939,7 @@ input {
 .piece-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
 .piece-card { overflow: hidden; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 12px; }
 .piece-card__media { aspect-ratio: 1 / 1; background: #211c19; }
-.piece-card__media img { width: 100%; height: 100%; object-fit: cover; }
+.piece-card__media img { width: 100%; height: 100%; object-fit: contain; object-position: center; display: block; }
 .piece-card__media--placeholder { display: grid; place-items: center; }
 .piece-card__media--placeholder img { width: 42%; height: auto; object-fit: contain; opacity: .6; }
 .piece-card__body { padding: 18px; }

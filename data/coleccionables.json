@@ -34,7 +34,62 @@
         "estatus": "Disponible"
       }
     ],
-    "piezas": []
+    "piezas": [
+      {
+        "id": "cíclope-mbappe",
+        "nombre": "Cíclope Mbappe",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/sw1/cíclope-mbappe/cíclope-mbappe.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "duende-neymar",
+        "nombre": "Duende Neymar",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/sw1/duende-neymar/duende-neymar.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "hombre-lobo-messi",
+        "nombre": "Hombre Lobo Messi",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/sw1/hombre-lobo-messi/hombre-lobo-messi.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "frankenstein-cr7",
+        "nombre": "Frankenstein CR7",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/sw1/frankenstein-cr7/frankenstein-cr7.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "vampiro-ronaldinho",
+        "nombre": "Vampiro Ronaldinho",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/sw1/vampiro-ronaldinho/vampiro-ronaldinho.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "zombie-campos",
+        "nombre": "Zombie Campos",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/sw1/zombie-campos/zombie-campos.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      }
+    ]
   },
   {
     "id": "retrowave-1",
@@ -89,7 +144,62 @@
         "estatus": "Disponible"
       }
     ],
-    "piezas": []
+    "piezas": [
+      {
+        "id": "homenaje-prisionero-el-tenkyu",
+        "nombre": "Homenaje Prisionero (El Tenkyu)",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/rw1/homenaje-prisionero-el-tenkyu/homenaje-prisionero-el-tenkyu.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-zangief",
+        "nombre": "Homenaje Zangief",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/rw1/homenaje-zangief/homenaje-zangief.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-pegajoso",
+        "nombre": "Homenaje Pegajoso",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/rw1/homenaje-pegajoso/homenaje-pegajoso.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-vegeta",
+        "nombre": "Homenaje Vegeta",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/rw1/homenaje-vegeta/homenaje-vegeta.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-mumm-ra",
+        "nombre": "Homenaje Mumm-ra",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/rw1/homenaje-mumm-ra/homenaje-mumm-ra.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      },
+      {
+        "id": "homenaje-destructor",
+        "nombre": "Homenaje Destructor",
+        "descripcion": "",
+        "imagen": "./img/coleccionables/rw1/homenaje-destructor/homenaje-destructor.png",
+        "estado": "Disponible",
+        "publicado": true,
+        "productos": []
+      }
+    ]
   },
   {
     "id": "horrorwave-1",
