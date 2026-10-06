@@ -268,7 +268,7 @@
         "id": "homenaje-beetlejuice",
         "nombre": "Homenaje Beetlejuice",
         "descripcion": "",
-        "imagen": "./img/coleccionables/hw1/beetlejuice/beetlejuice.webp",
+        "imagen": "./img/coleccionables/hw1/homenaje-beetlejuice/homenaje-beetlejuice.webp",
         "estado": "Disponible",
         "publicado": true,
         "productos": []
