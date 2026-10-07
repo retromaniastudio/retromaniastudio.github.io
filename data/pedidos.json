@@ -1,6 +1,11 @@
 {
     "RETROMANIA STUDIO": [
         {
+            "pedido": "HW1-020",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
             "pedido": "HW1-019",
             "estatus": "PEDIDO CONFIRMADO",
             "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
