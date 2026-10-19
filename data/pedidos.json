@@ -1,6 +1,11 @@
 {
     "RETROMANIA STUDIO": [
         {
+            "pedido": "HW1-024",
+            "estatus": "PEDIDO CONFIRMADO",
+            "comentario": "¡Gracias por tu pedido! Estamos procesando tu solicitud y te mantendremos informado sobre el estado de tu pedido. Si tienes alguna pregunta, no dudes en contactarnos."
+        },
+        {
             "pedido": "RW1-026",
             "estatus": "PEDIDO ENTREGADO",
             "comentario": "Tu pedido fue marcado como entregado. ¡Gracias por comprar con Retromanía Studio!"
