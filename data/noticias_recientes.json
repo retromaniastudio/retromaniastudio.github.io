@@ -6,9 +6,9 @@
     "tipo": "ESTUDIO",
     "contenido": "Negro, gris oscuro y rosa neón: tres acabados distintos para una misma colección.\n¿Cuál es tu favorito?\nA quienes ya realizaron su pedido, durante esta semana estaremos contactándolos para finalizar los detalles pendientes y continuar con el proceso de entrega de sus waves.\nRetromania Studio\nNostalgia que vuelve a convertirse en colección.\n#RetromaniaStudio #Horrorwave1 #Coleccionables #Retro #ArtToys",
     "imagen": "./img/noticias/horrorwaves_impresas.webp",
-    "destacada": false,
-    "hero": false,
-    "principal": false
+    "destacada": true,
+    "hero": true,
+    "principal": true
   },
   {
     "id": "la-web-de-retromania-studio-ya-está-en-línea",
@@ -28,8 +28,8 @@
     "tipo": "COLECCIONABLES",
     "contenido": "**¡COMIENZA LA PREVENTA DE HORRORWAVE 1!** 🎃\n\nDel 03 al 10 de octubre de 2026 podrás realizar tu pedido de HORRORWAVE 1.\n\n💬 ¿Quieres pedir tu wave?\n\nVisita nuestra página o nuestro grupo en Facebook y comenta en la publicación de la preventa. Un miembro del equipo de Retromania Studio se pondrá en contacto contigo para continuar con tu pedido.\nRecuerda que tu pedido queda confirmado una vez realizado el anticipo del 50%.\n\n🪙 MONEDA EXCLUSIVA RETROMANIA\n\nLos primeros 15 pedidos confirmados recibirán la moneda exclusiva de RETROMANIA.\n¡Y no es solo un coleccionable!\n\n🏆 Junta 6 monedas exclusivas de 6 waves diferentes y recibe una FIGURA ESPECIAL TAMAÑO XL.\n\n🎟️ STICKER EXCLUSIVO EN CADA WAVE\n\nTodos los pedidos incluyen nuestra plantilla retro y el sticker exclusivo de HORRORWAVE 1.\nColecciona tus stickers porque también tienen recompensa:\n\n⭐ Junta 6 stickers exclusivos de 6 waves diferentes y recibe una FIGURA MINI EXCLUSIVA.\nConserva tus monedas y stickers: cada nueva wave te acerca a una recompensa especial.\n\n📦 En caso de requerir envío, el costo corre por cuenta del comprador.\n\nSíguenos para conocer próximas waves, preventas y novedades:\n\nhttps://lnk.bio/retromaniastudio",
     "imagen": "./img/noticias/banner_1.webp",
-    "destacada": true,
-    "hero": true,
-    "principal": true
+    "destacada": false,
+    "hero": false,
+    "principal": false
   }
 ]
