@@ -1,14 +1,25 @@
 [
   {
+    "id": "comunicado-importante-retromania-studio",
+    "titulo": "📢 COMUNICADO IMPORTANTE — RETROMANIA STUDIO 📢",
+    "fecha": "2026-10-31",
+    "tipo": "ESTUDIO",
+    "contenido": "Hola, comunidad Retromanía.\n\nQueremos compartirles una actualización sobre sus pedidos de nuestras waves.",
+    "imagen": "./img/noticias/Comunicado importante de Retromania Studio.webp",
+    "destacada": true,
+    "hero": true,
+    "principal": true
+  },
+  {
     "id": "así-se-ve-horrorwave-1-fuera-de-la-pantalla",
     "titulo": "Así se ve HORRORWAVE 1 fuera de la pantalla. 🎃",
     "fecha": "2026-10-19",
     "tipo": "ESTUDIO",
     "contenido": "Negro, gris oscuro y rosa neón: tres acabados distintos para una misma colección.\n¿Cuál es tu favorito?\nA quienes ya realizaron su pedido, durante esta semana estaremos contactándolos para finalizar los detalles pendientes y continuar con el proceso de entrega de sus waves.\nRetromania Studio\nNostalgia que vuelve a convertirse en colección.\n#RetromaniaStudio #Horrorwave1 #Coleccionables #Retro #ArtToys",
     "imagen": "./img/noticias/horrorwaves_impresas.webp",
-    "destacada": true,
-    "hero": true,
-    "principal": true
+    "destacada": false,
+    "hero": false,
+    "principal": false
   },
   {
     "id": "la-web-de-retromania-studio-ya-está-en-línea",
